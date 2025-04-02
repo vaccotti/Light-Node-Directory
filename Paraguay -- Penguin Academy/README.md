@@ -1,12 +1,12 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ Penguin
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Asunción
+- **City:** Paraguay
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+We are Penguin Group. Our commitment to developing Paraguay through technology, education, and financial freedom drives us to create initiatives that seek technological, labor, and financial insertion into the world of technology, especially Bitcoin. We have a coding school called Penguin Academy, a television program about Bitcoin and technology called Voltaje, and other initiatives that seek to expand the adoption of Bitcoin in our community.
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
@@ -20,11 +20,11 @@
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Website:** penguin.digital
+- **Email:** bruno@penguin.digital
+- **WhatsApp:** +595981229244
+- **Telegram:** t.me/BVaccotti
+- **Phone:** +595981229244
 
 ## 💰 Official Donation Link
 Support our activities by donating through [insert your donation link here].
